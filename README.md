@@ -1,5 +1,5 @@
 # Portfolio
-This repo is [Ronnie's Portfolio](https://me.chaottiic.com/).
+This repo is [Ronnie's Portfolio](https://me.ronniie.com/).
   - Quick Access to Portfolio Projects.
   - Quick Social Links within the Footer
 
